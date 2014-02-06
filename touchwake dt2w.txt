@@ -19,3 +19,6 @@ https://github.com/showp1984/bricked-hammerhead/commit/d61a97ec7d173d3516114e3df
 
 DoubleTap2Wake fullscreen enabled:
 https://github.com/simar7/singh-kernel/blob/b3546c6415d9a426612a4c92d8528aa4f719d121/android-kernel-patches/flar2/0271-doubletap2wake-fullscreen-option.patch
+
+Other interested patches:
+https://github.com/simar7/singh-kernel/tree/b3546c6415d9a426612a4c92d8528aa4f719d121/android-kernel-patches/flar2
