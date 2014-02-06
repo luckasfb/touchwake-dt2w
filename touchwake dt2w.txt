@@ -16,4 +16,3 @@ LuckAs
 check the new version of drivers sleep2wake, dubletap2wake:
 https://github.com/showp1984/bricked-hammerhead/commit/da853a463d83a5ff265207f133cd96a975af8ef0
 https://github.com/showp1984/bricked-hammerhead/commit/d61a97ec7d173d3516114e3df45dded9a2e9d889
-
